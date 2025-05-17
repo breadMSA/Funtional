@@ -523,10 +523,20 @@
         "role": "user",
         "content": "hi",
         "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Yo! What's up? Ready to pwn some noobs or just chill?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "we chilling, whats good",
+        "author": "braidenexe"
       }
     ],
     "userOverrides": {},
-    "model": "chatgpt",
+    "model": "together",
     "groqModel": "llama-3.1-8b-instant"
   }
 }
