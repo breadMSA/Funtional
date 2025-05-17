@@ -516,47 +516,5 @@
     "userOverrides": {},
     "model": "gemini",
     "groqModel": "llama-3.1-8b-instant"
-  },
-  "1373284492869107763": {
-    "messageHistory": [
-      {
-        "role": "user",
-        "content": "hi",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "Yo! What's up? Ready to pwn some noobs or just chill?",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "we chilling, whats good",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "Just vibing, you know? Got any memes or games on your mind?",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "would you tell me a funny joke?",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "Why did the gamer quit his job? Because he wanted to level up in life, GG right?",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "that was bad. prove me that you dont got a bad sense of humor",
-        "author": "braidenexe"
-      }
-    ],
-    "userOverrides": {},
-    "model": "deepseek",
-    "groqModel": "llama-3.1-8b-instant"
   }
 }
