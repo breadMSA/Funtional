@@ -258,6 +258,6 @@
   "1372878262749102080": {
     "messageHistory": [],
     "model": "gemini",
-    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
+    "groqModel": "llama-3.1-8b-instant"
   }
 }
