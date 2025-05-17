@@ -252,8 +252,8 @@
         "author": "braidenexe"
       }
     ],
-    "model": "chatgpt",
-    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
+    "model": "gemini",
+    "groqModel": "llama-3.1-8b-instant"
   },
   "1372878262749102080": {
     "messageHistory": [
@@ -542,6 +542,16 @@
       {
         "role": "user",
         "content": "would you tell me a funny joke?",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Why did the gamer quit his job? Because he wanted to level up in life, GG right?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "that was bad. prove me that you dont got a bad sense of humor",
         "author": "braidenexe"
       }
     ],
