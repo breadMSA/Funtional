@@ -258,16 +258,6 @@
   "1372878262749102080": {
     "messageHistory": [
       {
-        "role": "user",
-        "content": "真的嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "當然是真的啊！ 我說到做到，不然我就是小狗。 你看我現在有沒有混雜英文？ 沒有吧？ 如果有的話，你就大聲說出來，我立刻改進。 總之，我會盡力讓你滿意，這是我對你的承諾。",
-        "author": "Setsuna"
-      },
-      {
         "role": "assistant",
         "content": "Alright, I will be using Groq with model gemma2-9b-it in <#1372878262749102080>!",
         "author": "Setsuna"
@@ -506,9 +496,19 @@
         "role": "user",
         "content": "test",
         "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Test成功了！你有什麼想聊的嗎？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "再test一次",
+        "author": "braidenexe"
       }
     ],
-    "model": "gemini",
+    "model": "groq",
     "groqModel": "llama-3.1-8b-instant"
   }
 }
