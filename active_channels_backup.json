@@ -513,8 +513,7 @@
   },
   "1276362854127108207": {
     "messageHistory": [],
-    "userOverrides": {},
-    "model": "gemini",
+    "model": "groq",
     "groqModel": "llama-3.1-8b-instant"
   },
   "1373284492869107763": {
