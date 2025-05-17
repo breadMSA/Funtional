@@ -533,10 +533,20 @@
         "role": "user",
         "content": "we chilling, whats good",
         "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Just vibing, you know? Got any memes or games on your mind?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "would you tell me a funny joke?",
+        "author": "braidenexe"
       }
     ],
     "userOverrides": {},
-    "model": "together",
+    "model": "deepseek",
     "groqModel": "llama-3.1-8b-instant"
   }
 }
