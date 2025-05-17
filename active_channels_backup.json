@@ -252,10 +252,12 @@
         "author": "braidenexe"
       }
     ],
-    "model": "together"
+    "model": "together",
+    "groqModel": "llama-3.1-8b-instant"
   },
   "1372878262749102080": {
     "messageHistory": [],
-    "model": "gemini"
+    "model": "gemini",
+    "groqModel": "llama-3.1-8b-instant"
   }
 }
