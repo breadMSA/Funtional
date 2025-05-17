@@ -508,7 +508,7 @@
         "author": "braidenexe"
       }
     ],
-    "model": "groq",
+    "model": "gemini",
     "groqModel": "llama-3.1-8b-instant"
   }
 }
