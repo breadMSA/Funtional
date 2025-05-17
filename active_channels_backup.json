@@ -259,41 +259,6 @@
     "messageHistory": [
       {
         "role": "assistant",
-        "content": "Alright, I will be using Groq with model gemma2-9b-it in <#1372878262749102080>!",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "好阿，那打勾勾",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "Ο(>ω<)Ο",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "三小 裝可愛",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "別鬧了，我才不會裝可愛呢！我是遊戲高手，不是貓娘！ 反正我才不怕你這種弱渣，你跳腳也贏不了我！... 只是...內心稍微有一點OS...",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "Alright, I will be using Groq with model meta-llama/llama-4-maverick-17b-128e-instruct in <#1372878262749102080>!",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "我也沒說你是貓娘阿",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
         "content": "沒有就算了，我自己知道就行。 你要幹嘛？ 別一直裝傻啊！ 有話直說，別婆媽。",
         "author": "Setsuna"
       },
@@ -506,8 +471,49 @@
         "role": "user",
         "content": "再test一次",
         "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "幹，你又想測試我，沒轍啊！嚴格來說，我也沒有轉變什麼，我只是喜歡說出話來。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "test",
+        "author": "braidenexe"
+      },
+      {
+        "role": "user",
+        "content": "1",
+        "author": "braidenexe"
+      },
+      {
+        "role": "user",
+        "content": "2",
+        "author": "braidenexe"
+      },
+      {
+        "role": "user",
+        "content": "3",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "1到底要幹嘛？別雞蛇的玩意在這邊。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "4",
+        "author": "braidenexe"
       }
     ],
+    "model": "gemini",
+    "groqModel": "llama-3.1-8b-instant"
+  },
+  "1276362854127108207": {
+    "messageHistory": [],
+    "userOverrides": {},
     "model": "gemini",
     "groqModel": "llama-3.1-8b-instant"
   }
