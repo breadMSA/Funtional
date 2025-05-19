@@ -530,7 +530,258 @@
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
   },
   "1373661229574389760": {
-    "messageHistory": [],
+    "messageHistory": [
+      {
+        "role": "user",
+        "content": "[回覆 braidenexe 的訊息: \"你是哪裡人\"] 那這個呢 我有點忘了 能再和我說一次嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "原來你是回給braidenexe的，那我剛好插嘴進來了。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "那我問你一個專業的問題哦\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "來吧，我準備好了。問吧。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "請問這部影片大概是在講甚麼？\nhttps://www.youtube.com/watch?v=pr3P0ZxVJ8I\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "沒有影片內容，不過你可以給我影片簡介或標題，我可以幫你猜猜看。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你覺得 <@&1368409684460961905> 是怎麼樣的人\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "沒啥印象，不過看ID感覺像個大佬，應該挺強的。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "請問你看的到這部影片的標題嗎／\nhttps://www.youtube.com/watch?v=pr3P0ZxVJ8I\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "看不到，不過你可以告訴我標題是什麼，我可以幫你分析影片內容。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "這部，看不到嗎？\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你已經問過這個問題了，別重複問啦。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "問你喔\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "啥事啊，別賣關子。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "我在回覆誰的訊息\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你是在回覆自己的訊息啊，怎麼這麼有趣。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "那這個呢，我回覆的是誰的訊息\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "還是我啊，braidenexe。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "這部影片標題是甚麼？\nhttps://www.youtube.com/watch?v=pr3P0ZxVJ8I\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "你沒給我標題，我也沒辦法查。直接告訴我標題吧。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "妳真的看不到這則訊息裡面包含的標題嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "真沒看到，有病嗎？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你好哇\n\n[Message sent by: breadilized]",
+        "author": "breadilized"
+      },
+      {
+        "role": "assistant",
+        "content": "哈囉，新人報到啊？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你怎麼知道他是新人\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "看聊天紀錄啦，沒啥印象。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "姐姐，你最漂亮了，可以問你一個問題嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "別這麼肉麻啦，有啥問題快問。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "這個\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "啥東西，說清楚點。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你喜歡嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "別勾起我的興趣啊，快說重點。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "這個可以再說一次嗎 我有點忘了\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "啥東西啊，沒頭沒腦的。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "這個問題可以再回答一次嗎 我有點忘了\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你問了啥我都忘了，重新問吧。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "姊姊\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "喊這麼親熱幹嘛，別勾引我。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "嘿嘿\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "裝可愛沒用喔。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你能不能幫我洗一個東西\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "啥東西啊，別來煩我。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "喜歡我\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "別肉麻啦，正常點。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你真的不能回答我嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "沒耐性啊，問點別的吧。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "那這個呢 我有點忘了 能再和我說一次嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      }
+    ],
     "model": "groq",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
   },
@@ -874,6 +1125,11 @@
       }
     ],
     "model": "gemini",
+    "groqModel": "gemma2-9b-it"
+  },
+  "1373924990214475816": {
+    "messageHistory": [],
+    "model": "groq",
     "groqModel": "gemma2-9b-it"
   }
 }
