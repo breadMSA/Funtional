@@ -1128,8 +1128,94 @@
     "groqModel": "gemma2-9b-it"
   },
   "1373924990214475816": {
-    "messageHistory": [],
+    "messageHistory": [
+      {
+        "role": "assistant",
+        "content": "Alright nerds, I'm here to party! Ready to chat in <#1373924990214475816> using Groq (Llama-3.1) model~",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[回覆 braidenexe 的訊息: \"姊姊，聽過minecraft嗎\"] 那你說說你對這秀的看法",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Minecraft?  duh lol. You telling me you've never built a pixelated castle before?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "那你聽過lol嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "LoL? You think I only live in the blocky world?  I climb ranked every week noob.",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "講中文啦\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "幹 你才 noob lol 你聽沒聽過 LEAGUE OF LEGENDS ！！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "我哪時說我沒聽過啦\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "哈囉？ 你先說你聽過Minecraft 我才問你LoL咧",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你覺得這遊戲好玩嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "LoL 當然好玩 只是跟你講  我幾乎每天都在玩",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "這個好玩嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你丟個遊戲出來讓我看看wwww 慢慢活  你懂什麼叫做 \"這個 \"",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "嗨\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你喔 還記得剛才談論的那些遊戲嗎? 不需要聊死人嘛",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "那你說說你對這秀的看法\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      }
+    ],
     "model": "groq",
+    "groqModel": "gemma2-9b-it"
+  },
+  "1373931921595437206": {
+    "messageHistory": [],
+    "model": "gemini",
     "groqModel": "gemma2-9b-it"
   }
 }
