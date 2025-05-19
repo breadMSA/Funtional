@@ -261,7 +261,7 @@
   },
   "1372878262749102080": {
     "messageHistory": [],
-    "model": "gemini",
+    "model": "groq",
     "groqModel": "llama-3.1-8b-instant"
   },
   "1276362854127108207": {
@@ -791,7 +791,88 @@
     "groqModel": "gemma2-9b-it"
   },
   "1373883966641143848": {
-    "messageHistory": [],
+    "messageHistory": [
+      {
+        "role": "user",
+        "content": "\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe 正在回覆 braidenexe 的訊息: \"你聽過Minecraft嗎\"] 那你覺得這遊戲好玩嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright nerds, I'm here to party! Ready to chat in <#1373883966641143848> using Gemini model~",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你聽過Minecraft嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "本小姐當然聽過啊，你當我是山頂洞人逆？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "好玩嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "看你喜歡玩什麼啊，喜歡蓋東西就還行，不然就那樣吧。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "那你打lol嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你說勒？本小姐菁英起碼十年了，CARRY你跟喝水一樣。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "真的ㄛ 你main哪路\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "SUP，輔助AD上分，躺好就完事了。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "確定不是你輔助躺分嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "最好是啦，等等戳爆你，敢嘴本小姐？單挑啊，來啊！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你確定要用sp跟我單挑\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "怕你喔？選角啦，不要在那邊俗辣。本小姐 main 露璐，打到你叫媽媽。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "那你覺得這遊戲好玩嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      }
+    ],
     "model": "gemini",
     "groqModel": "gemma2-9b-it"
   }
