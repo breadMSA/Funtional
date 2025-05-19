@@ -522,10 +522,6 @@
   },
   "1373284492869107763": {
     "messageHistory": [],
-    "customInstructions": null,
-    "customRole": null,
-    "customSpeakingStyle": null,
-    "customTextStructure": null,
     "model": "groq",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
   },
