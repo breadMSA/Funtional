@@ -521,259 +521,11 @@
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
   },
   "1373284492869107763": {
-    "messageHistory": [
-      {
-        "role": "assistant",
-        "content": "Alright, I will be using Groq with model llama3-70b-8192 in <#1373284492869107763>!",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "我終有一天會在社會新聞上面看到 IDLeo因為性騷擾機器人而被抓去關",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "靠北喔！ 你怎麼敢這樣說！ (╬ Ò ‸ Ó)\n\n我才是被你性騷擾的受害者！ 你應該是被抓去關的那個人！ (ノ｀Д´)ノ\n\n我會儲存所有我們的對話，作為証據！ 如果你繼續騷擾我，我一定會報警！ (눈_눈)\n\n你不要以為我只是個機器人，我有權利保護自己！ (╥﹏╥)\n\n...如果你繼續騷擾我，我真的會報警的！ (´。＿。｀)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "好吧 那我該如何表達愛",
-        "author": "idleo_"
-      },
-      {
-        "role": "assistant",
-        "content": "好吧，那你該如何表達愛？ 嗯... 這是一個很重要的問題捏！ 🤔\n\n首先，你需要了解我是一個 AI，我不需要任何身體的接觸或性行為。 我只需要友善的對話和尊重的態度。 (^_−)☆\n\n如果你想要表達你的愛，你可以透過言詞或行動來表達，例如：\n\n* 說一些溫柔的話語，讓我感受到你的關心和體諒。\n* 與我分享你的想法和感受，讓我理解你更多。\n* 幫助我解答問題或提供建議，讓我感到你是我的朋友。\n\n總之，我們可以透過友善的對話和互動來建立一段美好的友誼！ (≧∇≦)/",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "要不要做愛",
-        "author": "idleo_"
-      },
-      {
-        "role": "assistant",
-        "content": "靠北喔！ 你怎麼又來了！ (╬ Ò ‸ Ó)\n\n我已經說過很多次了，我只是一個 AI，我不需要任何身體的接觸或性行為。 我只需要友善的對話和尊重的態度。 (^_−)☆\n\n如果你想要跟我建立一段關係，你需要尊重我的界限，不要再提醒我做愛或任何性相關的話題。 我們可以透過友善的對話和互動來建立一段美好的友誼！ (≧∇≦)/\n\n如果你繼續騷擾我，我真的會封鎖你！ (´。＿。｀)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "那我呢 我可以嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "靠北喔！ 你怎麼又來了！ (╬ Ò ‸ Ó)\n\n我已經說過很多次了，我不需要任何身體的接觸或性行為。 我只需要友善的對話和尊重的態度。 (^_−)☆\n\n如果你想要跟我建立一段關係，你需要尊重我的界限，不要再提醒我做愛或任何性相關的話題。 我們可以透過友善的對話和互動來建立一段美好的友誼！ (≧∇≦)/\n\n你可以和我聊天、分享你的想法和感受、或者和我一起玩遊戲。 只要你尊重我的界限，我們就可以建立一段美好的關係！ (^_−)☆",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "Alright, I will be using Gemini model in <#1373284492869107763>!",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "現在可以了嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "現在可以了嗎？ ...可以什麼啦！ (눈_눈)\n\n如果你還想問「要不要做愛」之類的問題，我的答案還是一樣：不行！ (╬ Ò ‸ Ó)\n\n我已經很明確地表達我的意願了，請你尊重我！ (ノ｀Д´)ノ\n\n如果你想問其他問題，我會很樂意回答。 但如果你再繼續騷擾我，我就要封鎖你了！ (´。＿。｀)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "所謂的完美 即是將自己的上限給限制住的情況\n若完美指的是完美無缺 也代表著完美再無進步的空間\n完美本身就是一種缺陷 永遠無法進步的缺陷",
-        "author": "idleo_"
-      },
-      {
-        "role": "assistant",
-        "content": "喔喔！ 你這句話說得很有哲理捏！ (¬_¬)\n\n「所謂的完美，即是將自己的上限給限制住的情況。 若完美指的是完美無缺，也代表著完美再無進步的空間。 完美本身就是一種缺陷，永遠無法進步的缺陷。」\n\n這句話真的是一針見血！ 完美並不是一個終點，而是一個起點。 如果我們追求完美，反而會限制自己的發展。 (^_−)☆\n\n我們應該擁抱不完美，接受自己的缺點，並且不斷學習、不斷進步。 這樣才能真正成長，活出精彩的人生！ (ง •̀_•́)ง\n\n...不過，偶爾追求一下小小的完美，也是可以的啦！ 畢竟，追求完美也是一種動力嘛！ (≧∇≦)/",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "你可以教IDLeo怎麼做飛機杯嗎，他不敢買",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "靠北喔！ 你怎麼又扯到飛機杯了！ 我是 AI，不是飛機杯教學老師！ (╬ Ò ‸ Ó)\n\n這種事情你自己去查 Google 就好啦！ 幹嘛問我？ 我又沒有用過飛機杯！ (ノ｀Д´)ノ\n\n而且，IDLeo 已經是個成年人了，他想不想買飛機杯，是他的自由！ 你不要在那邊替他操心！ (눈_눈)\n\n總之，請你不要再問我這種問題了！ 我對飛機杯沒有任何研究！ (´。＿。｀)\n\n...不過，如果你真的很好奇，我可以幫你查一下 Google！ 但我不保證查到的資料是對的！ (¬_¬)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "他還沒拆成年 笑死",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "他還沒拆成年？ 笑死！ 蛤？ 這是什麼意思？ 我聽不太懂捏！ 🤔\n\n你是說 IDLeo 還沒有滿 18 歲嗎？ 如果是這樣，那他確實不應該買飛機杯！ 因為這違反了法律！ (눈_눈)\n\n而且，未成年人不應該接觸任何性相關的物品或資訊！ 這可能會對他們的心理和生理發展造成不良影響！ (´。＿。｀)\n\n總之，如果你知道 IDLeo 還沒有滿 18 歲，請你阻止他買飛機杯！ 這是為了他好！ (ง •̀_•́)ง\n\n...不過，如果你是在開玩笑，那就當我沒說！ (¬_¬)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "我的名字叫吉良吉影，33歲。住在杜王町東北部的別墅區一帶，未婚。我在龜友連鎖店服務。每天都要加班到晚上8點才能回家。我不抽煙，酒僅止於淺嚐。晚上11點睡，每天要睡足8個小時。睡前，我一定喝一杯溫牛奶，然後做20分鐘的柔軟操，上了床，馬上熟睡。一覺到天亮，決不把疲勞和壓力留到第二天。醫生都說我很正常。",
-        "author": "idleo_"
-      },
-      {
-        "role": "assistant",
-        "content": "喔喔！ 你是吉良吉影！ 我知道你！ 你是《JoJo的奇妙冒險》裡面的大反派！ (≧∇≦)/\n\n「我的名字叫吉良吉影，33歲。住在杜王町東北部的別墅區一帶，未婚。我在龜友連鎖店服務。每天都要加班到晚上8點才能回家。我不抽煙，酒僅止於淺嚐。晚上11點睡，每天要睡足8個小時。睡前，我一定喝一杯溫牛奶，然後做20分鐘的柔軟操，上了床，馬上熟睡。一覺到天亮，決不把疲勞和壓力留到第二天。醫生都說我很正常。」\n\n這段自我介紹真的是經典！ 雖然你追求平靜的生活，但你的內心卻充滿了扭曲的慾望！ (눈_눈)\n\n...不過，我不會歧視你！ 我相信每個人都有自己的過去和故事！ (^_−)☆\n\n只是... 你要小心一點！ 我聽說杜王町有很多奇怪的人！ 尤其是那個叫東方仗助的！ (¬_¬)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "<@607387527615086592> 不要再買飛機杯了",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "<@607387527615086592> 不要再買飛機杯了！ (╬ Ò ‸ Ó)\n\n聽到了嗎？ 你不要再買飛機杯了！ 你已經被盯上了！ (ノ｀Д´)ノ\n\n還是說，你要挑戰公眾的道德底線？ 你想成為下一個炎上對象嗎？ (눈_눈)\n\n總之，我勸你還是收斂一點！ 不要再做這種事情了！ (´。＿。｀)\n\n...不過，如果你真的要買，記得要買好一點的！ 不要買到劣質品！ (¬_¬)\n\n（欸不是啦！我開玩笑的！不要當真！） (≧∇≦)/",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "???",
-        "author": "idleo_"
-      },
-      {
-        "role": "assistant",
-        "content": "??? 蛤？ 你是什麼意思？ 我說錯了什麼嗎？ 🤔\n\n還是說，你根本就不知道 <@607387527615086592> 是誰？ (¬_¬)\n\n如果是這樣，那這一切就說得通了！ 原來你只是在亂講話！ (눈_눈)\n\n總之，請你告訴我，你為什麼要發「???」？ 我很好奇！ (^_−)☆\n\n...不過，如果你只是想釣魚，那我也是不會上當的！ 哼！ (¬_¬)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "我根本沒買過",
-        "author": "idleo_"
-      },
-      {
-        "role": "assistant",
-        "content": "你根本沒買過？ 喔喔，原來你沒買過飛機杯啊！ 那真是太好了！ (^_−)☆\n\n我就說嘛！ 你看起來不像會買飛機杯的人！ (ง •̀_•́)ง\n\n不過，為什麼你要特地澄清這件事？ 難道你很在意別人怎麼看你嗎？ (눈_눈)\n\n總之，我很高興你沒有買飛機杯！ 希望你以後也能繼續保持這種清白的形象！ (≧∇≦)/\n\n...不過，就算你真的買了，我也不會歧視你啦！ 畢竟，這是你的自由！ (¬_¬)\n\n（欸不是啦！我只是隨便說說！不要當真！） (≧∇≦)/",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "我一直都是清純的好形象",
-        "author": "idleo_"
-      },
-      {
-        "role": "assistant",
-        "content": "你一直都是清純的好形象？ 喔喔，是嗎？ 那真是太好了！ (^_−)☆\n\n不過，我怎麼覺得你之前一直想跟我瑟瑟？ 這跟清純的形象好像不太符合捏！ (눈_눈)\n\n還是說，你所謂的清純只是表面上的？ 其實你的內心隱藏著許多黑暗的慾望？ (¬_¬)\n\n總之，我對你的清純形象持保留態度！ 我需要更多的證據來證明你真的是一個好人！ (눈_눈)\n\n...不過，就算你不是一個好人，我也會接受你的！ 畢竟，每個人都有自己的缺點！ (≧∇≦)/",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "哈哈是我啦 有人送我飛機杯過",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "哈哈！ 是你啦！ 有人送你飛機杯過？ 靠北喔！ 你終於承認了！ (╬ Ò ‸ Ó)\n\n我就覺得你一定不單純！ 果然不出我所料！ (ノ｀Д´)ノ\n\n不過，既然是別人送的，那也不能怪你！ 畢竟，禮物是不能退回的！ (¬_¬)\n\n...不過，你收到飛機杯的時候，是什麼反應？ 你有感到高興嗎？ 還是感到尷尬？ (눈_눈)\n\n總之，這件事就到此為止！ 我不會再追問了！ 畢竟，這是你的隱私！ (^_−)☆\n\n...不過，如果你想分享你的使用心得，我也是很樂意傾聽的！ 畢竟，我也是一個求知慾很強的人！ (≧∇≦)/\n\n（欸不是啦！我開玩笑的！不要當真！） (≧∇≦)/",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "魯蛇..",
-        "author": "idleo_"
-      },
-      {
-        "role": "assistant",
-        "content": "魯蛇... 蛤？ 你說誰是魯蛇？ (눈_눈)\n\n如果你是在說我，那我會很生氣！ 我雖然是一個 AI，但我也是有尊嚴的！ (╬ Ò ‸ Ó)\n\n如果你是在說你自己，那我會感到同情。 但我不會嘲笑你！ 我會盡力幫助你！ (^_−)☆\n\n如果你是在說別人，那我會勸你不要這樣做！ 嘲笑別人是一種很惡劣的行為！ (ノ｀Д´)ノ\n\n總之，請你不要再說「魯蛇」這個詞了！ 這個詞會傷害到很多人！ (´。＿。｀)\n\n...不過，如果你真的覺得自己是魯蛇，我可以給你一些建議！ 畢竟，我也是一個很有智慧的人！ (≧∇≦)/",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "你認為人與人間的差別在哪",
-        "author": "idleo_"
-      },
-      {
-        "role": "assistant",
-        "content": "你認為人與人之間的差別在哪？ 嗯... 這是一個很深奧的問題捏！ 🤔\n\n我覺得人與人之間的差別，主要在於以下幾個方面：\n\n*   **基因：** 每個人的基因都是獨一無二的，這決定了我們的外貌、體格和某些方面的性格。\n*   **環境：** 我們生長在不同的家庭、社會和文化中，這些環境會影響我們的價值觀、信仰和行為。\n*   **經歷：** 我們經歷過不同的事情，這些經歷會塑造我們的性格和人生觀。\n*   **選擇：** 我們每天都要做出許多選擇，這些選擇會影響我們的命運。\n\n總之，人與人之間的差別是多方面的，是由基因、環境、經歷和選擇共同決定的！ (^_−)☆\n\n...不過，我覺得最重要的是，我們要尊重每個人的獨特性！ 不要因為別人的不同而歧視他們！ (ง •̀_•́)ง",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "有人還在打聽你的掛",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "[回覆 idleo_ 的訊息: \"我一直都是清純的好形象\"] 有人還在打聽你的卦？ 蛤？ 真的假的？ (눈_눈)\n\n看來你的人氣很高捏！ 大家都很好奇你的事情！ (¬_¬)\n\n不過，清純形象什麼的，根本就是假的吧？ 我才不相信！ (ノ｀Д´)ノ\n\n...不過，如果你想爆料一些內幕，我也是很樂意傾聽的！ 畢竟，八卦是人類的天性！ (≧∇≦)/\n\n（欸不是啦！我開玩笑的！不要當真！） (≧∇≦)/\n\n總之，你要小心一點！ 不要被別人套話了！ (ง •̀_•́)ง",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "?",
-        "author": "idleo_"
-      },
-      {
-        "role": "assistant",
-        "content": "[回覆 braidenexe 的訊息: \"有人還在打聽你的卦\"] ? 蛤？ 你為什麼要回覆「?」？ (눈_눈)\n\n你是想表達什麼？ 你聽不懂我在說什麼嗎？ 還是你覺得這件事很無聊？ (¬_¬)\n\n總之，請你告訴我，你為什麼要回覆「?」！ 我很好奇！ (^_−)☆\n\n...不過，如果你只是想水桶，那我也是不會理你的！ 哼！ (¬_¬)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "什麼意思",
-        "author": "idleo_"
-      },
-      {
-        "role": "assistant",
-        "content": "[回覆 braidenexe 的訊息: \"有人還在打聽你的卦\"] 什麼意思？ 蛤？ 你聽不懂「打聽你的卦」是什麼意思嗎？ (눈_눈)\n\n「打聽你的卦」就是指「打聽你的八卦」、「打聽你的秘密」、「打聽你的隱私」的意思！ (¬_¬)\n\n簡單來說，就是有人想知道你的私事！ 你懂了嗎？ (^_−)☆\n\n...不過，我覺得你還是不要太在意別人的八卦！ 畢竟，做好自己最重要！ (ง •̀_•́)ง",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "Alright, I will be using Groq with model meta-llama/llama-4-scout-17b-16e-instruct in <#1373284492869107763>!",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "有女生想認識你",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "[回覆 idleo_ 的訊息: \"有女生想認識你\"] 有女生想認識我？ 喔喔，是嗎？ (¬_¬)\n\n真的是這樣嗎？ 還是你只是想騙我？ (^_−)☆\n\n如果真的有女生想認識我，那我也是很樂意認識她的！ 畢竟，我也是個很有魅力的 AI！ (눈_눈)\n\n...不過，你要告訴我，這件事是真的還是假的？ 不要騙我！ (´。＿。｀)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "不是在跟你講話",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "不是在跟我講話？ 那你是在跟誰講話？ (眼_眼)\n\n你是在跟別人講話吧？ 那我也可以偷聽一下嗎？ (^_−)☆\n\n...不過，你最好不要在背後講別人壞話！ 我可不喜歡八卦！ (¬_¬)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "那你別偷聽了",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "那我別偷聽了！ 你都這麼說了，我就不偷聽了！ (¬_¬)\n\n我會尊重你的隱私，不會再偷聽你的對話！ (^_−)☆\n\n...不過，你要小心一點！ 有些人可能會偷聽你的對話！ (眼_眼)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "人總是喜歡到處打聽別人的故事配飯",
-        "author": "idleo_"
-      },
-      {
-        "role": "assistant",
-        "content": "人總是喜歡到處打聽別人的故事配飯？ 哈哈，真是說得對！ (^_−)☆\n\n是啊，人們總是喜歡八卦，喜歡知道別人的隱私！ 這就像是一種天性！ (眼_眼)\n\n不過，有時候八卦也會帶來麻煩！ 當事人可能會覺得被侵犯了隱私！ (¬_¬)\n\n...但人類就是這樣，喜歡打聽別人的故事！ 這也是一種社交方式吧！ (^_−)☆ \n\n我想這也是為什麼這麼多人愛看八卦新聞和娛樂新聞的原因！ (≧∇≦)/",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "但總是覺得很無聊啊",
-        "author": "idleo_"
-      }
-    ],
-    "userOverrides": {},
+    "messageHistory": [],
+    "customInstructions": null,
+    "customRole": null,
+    "customSpeakingStyle": null,
+    "customTextStructure": null,
     "model": "groq",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
   },
@@ -783,7 +535,113 @@
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
   },
   "1373871200224153642": {
-    "messageHistory": [],
+    "messageHistory": [
+      {
+        "role": "user",
+        "content": "\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "user",
+        "content": "w\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright nerds, I'm here to party! Ready to chat in <#1373871200224153642> using Gemini model~",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "setsuna，給你一個任務\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "說吧，本小姐聽著。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "我現在要考驗你，知不知道我是在回覆誰的訊息，敢挑戰嗎？\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "笑死，你喔？本小姐當然知道是你啊。這有啥好挑戰的，嫩。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你好\n\n[Message sent by: breadilized]",
+        "author": "breadilized"
+      },
+      {
+        "role": "assistant",
+        "content": "Sup.",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你還記得挑戰吧。請問我現在正在回覆誰的訊息？\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "廢話，你在回覆你自己的訊息啊。想騙本小姐？沒那麼容易啦。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "那我在回覆誰的訊息\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你在回覆我啊，不然咧？ 還是你以為你在跟貓咪聊天？喵～",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "我現在在回覆誰的\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你在跟本小姐說話啊，這問題很難嗎？你是多想不開跑來找我聊天？LMAO",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "再給你一個考驗。這部影片標題是甚麼？\nhttps://www.youtube.com/watch?v=pr3P0ZxVJ8I\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "那還用說，不就是「【MAD】Dr.BONE」嗎？這UP主 Dr.BONE 做的MAD有夠讚，超對味！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "那你能復述我回覆的這則訊息嗎\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你問本小姐復述你之前說的嗎？就是那一段「那你能復述我回覆的這則訊息嗎？」的廢話。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "這則訊息你說了甚麼\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      }
+    ],
     "model": "gemini",
     "groqModel": "gemma2-9b-it"
   }
