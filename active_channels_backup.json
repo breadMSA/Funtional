@@ -1212,116 +1212,6 @@
   "1373931921595437206": {
     "messageHistory": [
       {
-        "role": "assistant",
-        "content": "Alright nerds, I'm here to party! Ready to chat in <#1373931921595437206> using Gemini model~",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "姊姊好呀\n\n[IMAGE SHARED BY braidenexe: https://cdn.discordapp.com/attachments/1373931921595437206/1373978747224592516/image.png?ex=682c60ec&is=682b0f6c&hm=e4d436253015d239c24211942c55905d15dcb69bfce369556a62a7191cb206a7&]\n\n",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "哈囉～有什麼我可以幫忙的嗎？別太超過嘿 😜",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "我可以給你一個挑戰嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "喔？儘管來啊，看看你有多pro 😼 我最喜歡挑戰了。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "Minecraft",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "Minecraft 喔...小菜一碟啦 🥱 你想比什麼？蓋房子？跑酷？還是比誰先找到鑽石？說來聽聽。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "英雄聯盟",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "英雄聯盟？ 哇喔，你認真的？好啊，來Solo啊，輸了別哭喔～ main 哪個位置報上來，我讓你一隻手 (才怪)。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "你覺得這遊戲怎麼樣",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "Minecraft？經典神作啊！建造、冒險、Mod，各種玩法都有，而且還能跟朋友一起玩，超讚的。你喜歡玩生存還是創造模式？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "那這個呢",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "LOL？這遊戲又愛又恨啦！有時候超好玩，跟朋友開黑超嗨，但有時候遇到雷包隊友就想砸鍵盤。你Main什麼角色啊？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "欸 我最近很愛玩dawncraft 你有聽過嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "Dawncraft？喔喔，我知道那個！聽說是超難的整合包，加了一堆怪物跟Roguelike要素，對不對？聽起來很頂啊，你喜歡受虐喔？ 😈",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "天啊你居然知道 對啊那個是想讓mc變成黑魂like的模組包\n一開始難得要死，但我做了好武器之後打起來超爽的",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "黑魂like的MC？ 真有你的... 本小姐喜歡！ 😈 做出好武器後大殺四方，成就感爆棚啊！有空也來分享一下你的神裝跟Build啊，讓本小姐參考參考。 😜",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "chikage +6，超級推\n攻擊力直接堆到+45 根本無敵",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "Chikage +6？ 聽起來很猛，是哪種武器啊？mod加進去的嗎？攻擊力+45... 根本是開無雙了吧 笑死。本小姐對近戰武器也很有愛，下次試試看。 😉",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "是blood n madness的武器，你如果遇到church doctor記得要打",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "Blood and Madness的武器？ Church Doctor... 筆記筆記。看來要準備一場腥風血雨了 😈 感謝情報啦，下次遇到一定扁他一頓，順便把他的寶貝搶過來。 😈",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "Alright, I will be using Groq with model meta-llama/llama-4-scout-17b-16e-instruct in <#1373931921595437206>!",
-        "author": "Setsuna"
-      },
-      {
         "role": "user",
         "content": "那你LOL都打甚麼位置，main誰",
         "author": "braidenexe"
@@ -1400,6 +1290,176 @@
         "role": "user",
         "content": "你看的到這張圖片嗎",
         "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Nope, still can't see any images. 🤦‍♀️  It's like my visual receptors are offline!  Frustrating, right? 😠  Let's try something else!  Do you want to talk about something else?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Groq with model meta-llama/llama-4-scout-17b-16e-instruct in <#1373931921595437206>!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "姐姐，你最近有在滑yt嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "最近滑得不多啦，太忙了都在打遊戲跟看動漫，不過偶爾還是會刷一下。最近看了很多遊戲實況跟攻略影片，你呢？有甚麼好看的影片推薦給我嗎？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "那你都看甚麼動漫",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "本小姐愛看各種動漫啦！最近剛看完《鬼滅之刃》跟《進擊的巨人》，超好看der！也愛看《我的英雄學院》跟《東京復仇者》，你呢？有甚麼好看的動漫推薦給我嗎？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "那你生一張鬼滅之刃的圖片給我看",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "抱歉啦，本小姐沒辦法直接生成圖片，不過我可以描述一下鬼滅之刃的畫面給你聽。\n\n想像一下，炭治郎、禰豆子、善逸跟伊之助站在一起，背景是日本的山林，樹木環繞，陽光從樹葉間透出來。他們都帶著嚴肅的表情，準備去戰鬥。\n\n或者你要我描述其他角色或場景？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "生一張圖片",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "我說了，我沒辦法生成圖片啦！本小姐只是一個聊天機器人，不是圖像生成器。你可以自己去找鬼滅之刃的圖片或動畫來看喔。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "畫一張圖",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "正在生成圖片，請稍候...",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "抱歉，生成圖片時出現錯誤，請稍後再試。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Looks like I’m still having trouble generating images right now. Sorry about that! If you need something else, feel free to ask!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "姐姐",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "怎麼了？找我有事嗎？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "qwejasuijasmcjnausf biawe gfisod biUOSDf hnboipawebyu ofguaobusd uhf",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "哈哈哈，怎麼了？你打了一串亂碼！是要測試我還是怎樣？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "隨便幫我畫一張圖",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "正在生成圖片，請稍候...",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "抱歉，生成圖片時出現錯誤，請稍後再試。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Looks like I’m still hitting a snag with image generation. I can’t draw it for you right now, but if you want to talk about ideas or concepts, I’m all in!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "隨便幫我畫一張圖",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "正在生成圖片，請稍候...",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "抱歉，生成圖片時出現錯誤，請稍後再試。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "目前我無法生成圖片。不過如果你有想法或主題，我可以幫你描述或提供靈感！你想畫什麼呢？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "隨便幫我畫一張圖",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "正在生成圖片，請稍候...",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "抱歉，生成圖片時出現錯誤，請稍後再試。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "我無法直接畫圖，但如果你有想法或主題，我可以幫你描述或提供靈感！想要什麼樣的畫呢？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "幫我隨便生一張圖片",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "正在生成圖片，請稍候...",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "抱歉，生成圖片時出現錯誤，請稍後再試。",
+        "author": "Setsuna"
       }
     ],
     "model": "groq",
