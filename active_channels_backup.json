@@ -2,21 +2,6 @@
   "1372811078764855296": {
     "messageHistory": [
       {
-        "role": "user",
-        "content": "你在嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "廢話！我還在這裡啊！怎麼樣？你要跟我聊天嗎？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "姐姐早",
-        "author": "braidenexe"
-      },
-      {
         "role": "assistant",
         "content": "早！姐姐還沒睡醒啦，別吵我！",
         "author": "Setsuna"
@@ -249,6 +234,21 @@
       {
         "role": "user",
         "content": "你真可愛",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "哈哈，別誇我了，我只是個普通女孩而已～",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Cerebras with model llama-4-scout-17b-16e-instruct in <#1372811078764855296>!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你怎麼不毒舌了",
         "author": "braidenexe"
       }
     ],
@@ -522,7 +522,7 @@
   },
   "1373284492869107763": {
     "messageHistory": [],
-    "model": "groq",
+    "model": "cerebras",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
   },
   "1373661229574389760": {
