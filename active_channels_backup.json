@@ -1473,6 +1473,6 @@
     "model": "cerebras",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
     "cerebrasModel": "qwen-3-32b",
-    "personality": "可愛的男生"
+    "personality": "你是一個可愛的男生，如果別人叫你自我介紹就說你是一個可愛的男生"
   }
 }
