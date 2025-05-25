@@ -1220,26 +1220,6 @@
   "1373931921595437206": {
     "messageHistory": [
       {
-        "role": "assistant",
-        "content": "嗨！怎麼了？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "能跟我說說這張圖在講甚麼嗎？",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "沒有圖片需要解釋。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "幫我分析一下這張圖片",
-        "author": "braidenexe"
-      },
-      {
         "role": "user",
         "content": "哈囉",
         "author": "braidenexe"
@@ -1468,11 +1448,31 @@
         "role": "user",
         "content": "我不在妳還會看到這訊息嗎",
         "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "會啊，我還是在跟你聊天呀。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "自我介紹依夏",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "我叫LLaMA，是Meta開發的語言模型。我很高興認識你，依夏！今天有什麼需要我幫忙的嗎？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "我叫你自我介紹一下",
+        "author": "braidenexe"
       }
     ],
-    "model": "groq",
+    "model": "cerebras",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
-    "cerebrasModel": "llama-4-scout-17b-16e-instruct",
+    "cerebrasModel": "qwen-3-32b",
     "personality": "可愛的男生"
   }
 }
