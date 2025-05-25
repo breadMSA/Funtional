@@ -1478,6 +1478,6 @@
     "messageHistory": [],
     "model": "cerebras",
     "groqModel": "gemma2-9b-it",
-    "cerebrasModel": "llama-3.3-70b"
+    "cerebrasModel": "llama3.1-8b"
   }
 }
