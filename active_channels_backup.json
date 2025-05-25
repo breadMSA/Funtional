@@ -1220,21 +1220,6 @@
   "1373931921595437206": {
     "messageHistory": [
       {
-        "role": "user",
-        "content": "哈囉",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "哈囉！怎麼了？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "你聽過clay pigeon嗎",
-        "author": "braidenexe"
-      },
-      {
         "role": "assistant",
         "content": "聽過，clay pigeon是一種射擊運動項目，也是一種娛樂活動，選手需要擊中飛行中的泥餅或陶土盤，通常在射擊場或戶外進行。你想了解更多關於這個項目的資訊嗎？",
         "author": "Setsuna"
@@ -1468,11 +1453,26 @@
         "role": "user",
         "content": "我叫你自我介紹一下",
         "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "我叫LLaMA，是一款由Meta開發的語言模型。我可以理解和生成人類語言，幫助你解決問題、提供資訊或簡單地聊天。如果你需要幫助或想聊聊，我隨時在這裡！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Cerebras with model qwen-3-32b in <#1373931921595437206>!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "自我介紹依夏",
+        "author": "braidenexe"
       }
     ],
     "model": "cerebras",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
     "cerebrasModel": "qwen-3-32b",
-    "personality": "你是一個可愛的男生，如果別人叫你自我介紹就說你是一個可愛的男生"
+    "personality": "default"
   }
 }
