@@ -532,51 +532,6 @@
   "1373661229574389760": {
     "messageHistory": [
       {
-        "role": "user",
-        "content": "那我問你一個專業的問題哦",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "來吧，我準備好了。問吧。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "請問這部影片大概是在講甚麼？\nhttps://www.youtube.com/watch?v=pr3P0ZxVJ8I",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "沒有影片內容，不過你可以給我影片簡介或標題，我可以幫你猜猜看。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "你覺得 <@&1368409684460961905> 是怎麼樣的人",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "沒啥印象，不過看ID感覺像個大佬，應該挺強的。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "請問你看的到這部影片的標題嗎／\nhttps://www.youtube.com/watch?v=pr3P0ZxVJ8I",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "",
-        "author": "Setsuna"
-      },
-      {
         "role": "assistant",
         "content": "看不到，不過你可以告訴我標題是什麼，我可以幫你分析影片內容。",
         "author": "Setsuna"
@@ -778,7 +733,52 @@
       },
       {
         "role": "user",
-        "content": "[回覆 braidenexe 的訊息: \"你是哪裡人\"] 姊姊，我給忘了，你可以再跟我說一次嗎",
+        "content": "姊姊，我給忘了，你可以再跟我說一次嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "本小姐是台灣人啦，別忘了。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "看不到影片，不過你可以告訴我標題和簡介，我可以幫你分析內容。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "來玩文字接龍",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "來啊，不過本小姐技術超強，你別想贏。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "那先來成語，同音異字可以。\n成千上萬",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "萬事如意。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "亦步亦趨",
         "author": "braidenexe"
       }
     ],
@@ -1473,5 +1473,11 @@
     "model": "cerebras",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
     "cerebrasModel": "qwen-3-32b"
+  },
+  "1376231152456699984": {
+    "messageHistory": [],
+    "model": "cerebras",
+    "groqModel": "gemma2-9b-it",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   }
 }
