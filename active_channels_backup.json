@@ -256,7 +256,7 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "model": "groq",
+    "model": "cerebras",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
   },
   "1372878262749102080": {
