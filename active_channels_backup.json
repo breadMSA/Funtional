@@ -257,12 +257,14 @@
     "customSpeakingStyle": null,
     "customTextStructure": null,
     "model": "cerebras",
-    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
+    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1372878262749102080": {
     "messageHistory": [],
     "model": "groq",
-    "groqModel": "llama-3.1-8b-instant"
+    "groqModel": "llama-3.1-8b-instant",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1276362854127108207": {
     "messageHistory": [
@@ -518,12 +520,14 @@
       }
     ],
     "model": "groq",
-    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
+    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1373284492869107763": {
     "messageHistory": [],
     "model": "cerebras",
-    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
+    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1373661229574389760": {
     "messageHistory": [
@@ -779,7 +783,8 @@
       }
     ],
     "model": "groq",
-    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
+    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1373871200224153642": {
     "messageHistory": [
@@ -1035,7 +1040,8 @@
       }
     ],
     "model": "gemini",
-    "groqModel": "gemma2-9b-it"
+    "groqModel": "gemma2-9b-it",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1373883966641143848": {
     "messageHistory": [
@@ -1121,7 +1127,8 @@
       }
     ],
     "model": "gemini",
-    "groqModel": "gemma2-9b-it"
+    "groqModel": "gemma2-9b-it",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1373924990214475816": {
     "messageHistory": [
@@ -1207,7 +1214,8 @@
       }
     ],
     "model": "groq",
-    "groqModel": "gemma2-9b-it"
+    "groqModel": "gemma2-9b-it",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1373931921595437206": {
     "messageHistory": [
@@ -1463,6 +1471,7 @@
       }
     ],
     "model": "groq",
-    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct"
+    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   }
 }
