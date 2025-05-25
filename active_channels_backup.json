@@ -533,32 +533,12 @@
     "messageHistory": [
       {
         "role": "assistant",
-        "content": "啥事啊，別賣關子。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "我在回覆誰的訊息\n\n[YOUTUBE VIDEO SHARED BY braidenexe:\nTitle: \"【SF6教學】裂縫的用法居然就長達20分鐘？JP玩家的超有料裂縫寶庫千萬別錯過！淡水人&GutsBoom的JP教學第二集\"\nChannel: \"野生的淡水人\"\nDescription: \"#streetfighter6  #快打旋風6 #sf6 #淡水  #野生的淡水人 #快打教學 #jp  #GutsBoom  #大師   #master \n\n任何問題想提問歡迎來淡水直播\nhttps://www.twitch.tv/wildtamsuinese\n加入大沾特沾的淡水DC\nhttps://discord.gg/C7cCV3w8rh\n快打想進步，隨時來批鬥，淡水的批鬥表單\nhttps://reurl.cc/LlGKg7\n\n章節\n0:00 開頭\n0:40 裂縫版本選擇\n1:58 如何處理前衝對手\n4:03 延遲引爆\n5:35 裂縫如何進攻\n8:11 如何處理後走的對手\n9:37 何時...\"\nViews: 7,897\nLikes: 229\nPublished: 5/21/2025]\n\n[Message sent by: braidenexe]",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "你是在回覆自己的訊息啊，怎麼這麼有趣。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "那這個呢，我回覆的是誰的訊息",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
         "content": "還是我啊，braidenexe。",
         "author": "Setsuna"
       },
       {
         "role": "user",
-        "content": "這部影片標題是甚麼？\nhttps://www.youtube.com/watch?v=pr3P0ZxVJ8I",
+        "content": "這部影片標題是甚麼？\nhttps://www.youtube.com/watch?v=pr3P0ZxVJ8I\n\n[YOUTUBE VIDEO SHARED BY braidenexe:\nTitle: \"【SF6教學】裂縫的用法居然就長達20分鐘？JP玩家的超有料裂縫寶庫千萬別錯過！淡水人&GutsBoom的JP教學第二集\"\nChannel: \"野生的淡水人\"\nDescription: \"#streetfighter6  #快打旋風6 #sf6 #淡水  #野生的淡水人 #快打教學 #jp  #GutsBoom  #大師   #master \n\n任何問題想提問歡迎來淡水直播\nhttps://www.twitch.tv/wildtamsuinese\n加入大沾特沾的淡水DC\nhttps://discord.gg/C7cCV3w8rh\n快打想進步，隨時來批鬥，淡水的批鬥表單\nhttps://reurl.cc/LlGKg7\n\n章節\n0:00 開頭\n0:40 裂縫版本選擇\n1:58 如何處理前衝對手\n4:03 延遲引爆\n5:35 裂縫如何進攻\n8:11 如何處理後走的對手\n9:37 何時...\"\nViews: 7,897\nLikes: 229\nPublished: 5/21/2025]\n\n[Message sent by: braidenexe]",
         "author": "braidenexe"
       },
       {
@@ -780,9 +760,29 @@
         "role": "assistant",
         "content": "",
         "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "沒辦法看影片，不過你可以告訴我標題和簡介，我可以幫你分析內容。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Groq with model meta-llama/llama-4-scout-17b-16e-instruct in <#1373661229574389760>!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Setsuna"
       }
     ],
-    "model": "groq",
+    "model": "gemini",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
