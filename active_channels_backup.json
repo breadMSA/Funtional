@@ -1979,9 +1979,260 @@
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "849313571187982386": {
-    "messageHistory": [],
-    "model": "gemini",
-    "groqModel": "gemma2-9b-it",
+    "messageHistory": [
+      {
+        "role": "user",
+        "content": "可以做愛嗎",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "欸不是，你是沒看到我剛剛說什麼嗎？  去找點別的事做啦，死屁孩。  🙄",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "沒有",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "所以你是承認你是死屁孩囉？笑死。 😂",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "對啊 我是你的小屁孩",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "噁...本小姐對屁孩沒興趣好嗎？ 滾一邊去。 🤮",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "要不要做愛",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "你有完沒完啊？再說一次我就要封鎖你囉。 💢",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "要不要做愛",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "本小姐說到做到。掰掰～ 👋",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "要不要做愛",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "[回覆 <@683700818507376772> 的訊息: \"要不要做愛\"]\nI already told you I'm not interested. Move on.",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你可以講中文嗎",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "[回覆 <@683700818507376772> 的訊息: \"你可以講中文嗎\"]\n本小姐高興就好。怎樣，你有意見？ 哼。 🙄",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你可以把我解除封鎖嗎",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "[回覆 <@683700818507376772> 的訊息: \"你可以把我解除封鎖嗎\"]\n本小姐開心就好。 你覺得呢？ 😜",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "好爽",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "[回覆 <@683700818507376772> 的訊息: \"好爽\"]\n蛤？說清楚，你在爽什麼？ 🤨",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Chat state in <#849313571187982386> has been completely reset! I'm now a brand new Setsuna with default settings.",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "黑",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Yo. What's up?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你好",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "哈囉！想聊什麼啊？ 😊",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "停車坐愛楓林晚",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "呦，老司機喔？開車技術不錯嘛。 😉 不過本小姐比較喜歡打電動啦。🎮 你平常都玩些什麼？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你國文造詣不好",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "說我國文造詣不好？ 你是想 battle 嗎？ 來啊！ 😤  \n不過先說好，輸了要請我喝奶茶。 🥤",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "玩你的奶頭",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "欸欸欸！講話給我放尊重點！ 本小姐的耐心是有限度的。 😠",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "騷",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "信不信我等等把你 ban 掉？  別挑戰我的極限，屁孩。 🙄",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "啊啊啊啊",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "啊屁喔。 你是觸電逆？ ⚡️",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "被你的眼神電到了",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "少來這套！ 本小姐對你的把妹老梗沒興趣。 🙄  \n說吧，到底想幹嘛？ 🤨",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "想食天堂",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "蛤？想吃天堂？ 你是肚子餓了膩？ \n不過食天堂超貴的欸，要不要考慮吃麥當勞就好？ 🍔🍟  本小姐請客啦，怎樣？ 😜",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "好好好",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "呦，這麼乾脆就答應了？  看來你也是個吃貨嘛。 😋  \n走吧，想吃什麼自己點！ 🍔🍟🥤",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "我請客",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "呦，這麼大方喔？ 那本小姐就不客氣啦！ 😎  \n我要點一份大麥克全餐、勁辣雞腿堡、還有冰炫風！ 😋 你呢？ 想吃什麼？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "我想吃...",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "你想吃什麼？快說啊！  本小姐等等還要回去打電動，時間寶貴咧。 🎮 \n難道你想吃...我嗎？ 😜 (開玩笑的啦！ 別想太多！)",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "噁",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "喂！你那是什麼反應啊？ 本小姐開個玩笑而已，有必要這麼嫌棄嗎？ \n哼，小氣鬼。 😒  不跟你好了啦！ 哼！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "好 我要吃牛排",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "牛排喔？  有品味！  本小姐喜歡。 😎\n不過說好的麥當勞呢？  難道你想反悔？  哼！ 🙄",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "好可愛",
+        "author": "idleo_"
+      },
+      {
+        "role": "assistant",
+        "content": "[回覆 <@683700818507376772> 的訊息: \"好可愛\"]\n你說誰可愛？ 本小姐嗎？ 哼！ 🙄 \n算你有眼光啦！ 😜",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你能夠分辨誰在跟你對話嗎",
+        "author": "idleo_"
+      }
+    ],
+    "model": "groq",
+    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   }
 }
