@@ -1475,7 +1475,193 @@
     "cerebrasModel": "qwen-3-32b"
   },
   "1376231152456699984": {
-    "messageHistory": [],
+    "messageHistory": [
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Cerebras with model llama-3.3-70b in <#1376231152456699984>!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Cerebras with model llama3.1-8b in <#1376231152456699984>!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Cerebras with model qwen-3-32b in <#1376231152456699984>!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "這部影片教學如何使用遊戲街霸6裡面的「裂縫」招式。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "可以詳細一點嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "影片解説了街霸6中「肯」戰鬥角色的「裂縫」招式，包括招式的釋放方式、連招應用以及對抗其他角色的戰術。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Peace out! Catch you later in another channel maybe?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "b",
+        "author": "braidenexe"
+      },
+      {
+        "role": "user",
+        "content": "https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "This video is a Street Fighter 6 tutorial by \"淡水人(Wild Tamsuinese)\" about the Ken character's \"Drive Rush\" mechanic.  It covers combos,  offensive/defensive strategies, and how to use it against different playstyles.",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "幫我畫張圖吧，關於那部影片",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這是根據你的描述生成的圖片：\n好的，我將為您繪製一張關於那部影片的高品質彩色圖片。為了更準確地呈現影片的內容，我會著重於捕捉影片的核心主題和視覺特徵，運用專業的構圖技巧和細膩的光影效果來營造氛圍。圖片將呈現豐富的色彩和適當的對比度，保證高解析度、清晰且細節豐富，風格一致且美觀，並且不包含任何文字或水印。\n\n [IMAGE_GENERATED]",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "幫我畫張圖吧，關於那部影片。畫面上不可以出現文字",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這是根據你的描述生成的圖片：\n好的，這是一張根據您的描述創作的圖像，它將是一部影片的視覺詮釋，運用專業的構圖和光影效果，呈現豐富的色彩和細節，並且畫面中不會有任何文字。\n\n [IMAGE_GENERATED]",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "可以改成黑白的嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "好的，我這就幫你轉換圖片！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "這是修改後的圖片：",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "可以改成右上角有太陽嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "好的，我這就幫你轉換圖片！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "正在轉換圖片，請稍候...",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "這是根據你的要求修改後的圖片：",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "圖片裡的人是誰呀",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "根據影片和圖片，那個人應該是遊戲「街霸6」中角色「肯」",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "我是說這則圖片，現在這則",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "圖片裡的人看起來像是一位年輕男性，他身穿白色外套，頭髮稍微長，並且戴著一頂棒球帽。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你看的到他的名字嗎?",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "沒有，我在圖片裡沒有看到他的名字.",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "嗨",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Heyo! What's up?\n\n\n\\",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "講中文",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "嘿!  最近在搞些啥？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "在搞基",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "喔？😏 什麼事讓你想搞基？  給我說細節一點嘛～😜",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "你別聽到這個就來勁 像個腐女似的",
+        "author": "braidenexe"
+      }
+    ],
     "model": "cerebras",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "qwen-3-32b"
