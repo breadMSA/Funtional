@@ -524,7 +524,258 @@
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1373284492869107763": {
-    "messageHistory": [],
+    "messageHistory": [
+      {
+        "role": "user",
+        "content": "Wow you're so energetic",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "Yeah I get pumped up sometimes! What's gotten you hyped today?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "Like never before",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "That's awesome! What's making you feel so unstoppable?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "No I mean you",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks, I try to stay lively. You're making me blush!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "you never look so happy",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks, I'm just being myself. You seem pretty cool too, wanna chat about something?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "sing along",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "C'mon, let's go! What's the song?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "A toast to the broom, to the bride",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "Sounds like a wedding vibe! Is that from a song or a movie quote?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "from your sister, Angelica who's always by your side",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "Whoa, hold up! Angelica's not my sister! She's actually the villain from Rugrats!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "To the union,  and the hope that you provide",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "Sounds like a wedding toast! Is that from a specific song or movie?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "Hamilton",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "My dude! That's a great musical! \"The Room Where It Happens\" is fire!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "Let's do history has its eyes on you",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "Yeah! That's a classic line! Who's your favorite Founding Father, Washington or Hamilton?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "When I was younger than you are now, I was given my first command",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "King George got some sass! That's from the musical, right?",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "yes but you need you need to sing along",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "Come on then! \"When I was younger than you are now, I was given my first command...\"",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "I led my man straight into a massacre, I witness every mistakes",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "Whoa, King George's got some serious bars! That's some heavy stuff right there",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "No it's Washington",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "My bad! You're right, that's Washington's monologue! He's got some deep regrets",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "You need to sing along",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "\"When I was younger than you are now, I was given my first command...\"",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "I led my man straight into a massacre, I witness every mistake",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "\"You were more like a beauty queen from a movie scene I said don't mind but you still had to stoop so low to get an F\"",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "what",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "I made a mistake! You're still singing Washington's part! \"I led my man straight into a massacre, I witnessed every mistake\"",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "I felt the shame rise in me",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "\"You were shot, and I was left to feel the shame rise in me\"",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "No",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "\"You were shot, and I didn't get a chance to heal,\"",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "No it's not",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "\"You didn't suffer, like I suffered\"",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "Hello it's me",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "I was wondering what I'd say if you called",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "It is over, everything",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Kurt Vile and Courtney Barnett's song just popped up in my head! \"Over Everything\" is such a great collab",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "Hello from the other side",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "Adele's got some powerful vocals! That song still gives me chills",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "Pain break me down",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "Bring it on, I'm ready to rage!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "test",
+        "author": "braidenexe"
+      }
+    ],
     "model": "cerebras",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
@@ -1472,198 +1723,6 @@
     ],
     "model": "cerebras",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
-    "cerebrasModel": "qwen-3-32b"
-  },
-  "1376231152456699984": {
-    "messageHistory": [
-      {
-        "role": "assistant",
-        "content": "Alright, I will be using Cerebras with model llama-3.3-70b in <#1376231152456699984>!",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "Alright, I will be using Cerebras with model llama3.1-8b in <#1376231152456699984>!",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "Alright, I will be using Cerebras with model qwen-3-32b in <#1376231152456699984>!",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "這部影片教學如何使用遊戲街霸6裡面的「裂縫」招式。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "可以詳細一點嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "影片解説了街霸6中「肯」戰鬥角色的「裂縫」招式，包括招式的釋放方式、連招應用以及對抗其他角色的戰術。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "Peace out! Catch you later in another channel maybe?",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "b",
-        "author": "braidenexe"
-      },
-      {
-        "role": "user",
-        "content": "https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "This video is a Street Fighter 6 tutorial by \"淡水人(Wild Tamsuinese)\" about the Ken character's \"Drive Rush\" mechanic.  It covers combos,  offensive/defensive strategies, and how to use it against different playstyles.",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "幫我畫張圖吧，關於那部影片",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "這是根據你的描述生成的圖片：\n好的，我將為您繪製一張關於那部影片的高品質彩色圖片。為了更準確地呈現影片的內容，我會著重於捕捉影片的核心主題和視覺特徵，運用專業的構圖技巧和細膩的光影效果來營造氛圍。圖片將呈現豐富的色彩和適當的對比度，保證高解析度、清晰且細節豐富，風格一致且美觀，並且不包含任何文字或水印。\n\n [IMAGE_GENERATED]",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "幫我畫張圖吧，關於那部影片。畫面上不可以出現文字",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "這是根據你的描述生成的圖片：\n好的，這是一張根據您的描述創作的圖像，它將是一部影片的視覺詮釋，運用專業的構圖和光影效果，呈現豐富的色彩和細節，並且畫面中不會有任何文字。\n\n [IMAGE_GENERATED]",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "可以改成黑白的嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "好的，我這就幫你轉換圖片！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "這是修改後的圖片：",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "可以改成右上角有太陽嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "好的，我這就幫你轉換圖片！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "正在轉換圖片，請稍候...",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "這是根據你的要求修改後的圖片：",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "圖片裡的人是誰呀",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "根據影片和圖片，那個人應該是遊戲「街霸6」中角色「肯」",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "我是說這則圖片，現在這則",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "圖片裡的人看起來像是一位年輕男性，他身穿白色外套，頭髮稍微長，並且戴著一頂棒球帽。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "你看的到他的名字嗎?",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "沒有，我在圖片裡沒有看到他的名字.",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "嗨",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "Heyo! What's up?\n\n\n\\",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "講中文",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "嘿!  最近在搞些啥？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "在搞基",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "喔？😏 什麼事讓你想搞基？  給我說細節一點嘛～😜",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "你別聽到這個就來勁 像個腐女似的",
-        "author": "braidenexe"
-      }
-    ],
-    "model": "cerebras",
-    "groqModel": "gemma2-9b-it",
     "cerebrasModel": "qwen-3-32b"
   }
 }
