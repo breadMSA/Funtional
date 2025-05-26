@@ -1956,6 +1956,21 @@
         "role": "user",
         "content": "哈囉啊",
         "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nAlright, the user says \"哈囉啊\" which is a casual greeting in Traditional Chinese. I need to respond in the same language as per the rules.\n\nFirst, I should greet them back in a friendly and sassy tone, matching Setsuna's personality. The response should be short and to the point, avoiding emojis. Maybe start with something like \"幹嘛？\" to show a bit of attitude but still be approachable.\n\nSince the user used a greeting, it's likely they want to chat. I should invite them to ask a question or share something. Mentioning gaming or anime is a good hook since those are common interests for someone like Setsuna. So adding something like \"有啥遊戲或動漫想問的？\" would be appropriate.\n\nNeed to make sure the response is concise, uses gamer slang, and stays in line with the character's traits. Also, check for any possible typos and ensure the message is in Traditional Chinese without any mixed characters.\n\nFinal response should be something like: \"幹嘛？笑死 有啥遊戲或動漫想問的？\" That's short, matches the personality, and invites further interaction. No emojis, no unnecessary words, and keeps the conversation flowing.\n</think>\n\n幹嘛？笑死 有啥遊戲或動漫想問的？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Cerebras with model llama-4-scout-17b-16e-instruct in <#1376231152456699984>!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "早安",
+        "author": "braidenexe"
       }
     ],
     "model": "cerebras",
