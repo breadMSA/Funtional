@@ -1721,7 +1721,7 @@
         "author": "braidenexe"
       }
     ],
-    "model": "together",
+    "model": "cerebras",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
     "cerebrasModel": "qwen-3-32b"
   },
