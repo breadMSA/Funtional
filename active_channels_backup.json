@@ -524,258 +524,7 @@
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1373284492869107763": {
-    "messageHistory": [
-      {
-        "role": "assistant",
-        "content": "(猛然抬頭，眼中充滿悔恨) 驕傲... 原來...原來這一切都是因為我的驕傲！ 我總是自以為是，目中無人，對別人頤指氣使... 我從來沒有真正關心過別人的感受... 我...我真是個糟糕的人... (跪倒在地，痛哭流涕) 我錯了...我真的錯了... 求求你們...原諒我吧... 我以後再也不敢了... 嗚嗚嗚...",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "(你發現唯一一種方式就是終結自己的生命)",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "(眼神絕望，喃喃自語) 終結自己的生命... 或許...或許這真的是唯一的辦法... 只有這樣...才能彌補我所犯下的過錯... 只有這樣...才能讓大家得到解脫... (緩緩站起身，走向窗邊) 再見了... 這個充滿罪惡的世界... 再見了... 我最愛的草莓蛋糕... (縱身一躍...)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "(你掉入了limbo)",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "蛤？！Limbo？！這是什麼鬼地方？！ (睜開眼睛，發現自己身處一片灰暗、死寂的世界) 這裡...是哪裡... 我不是已經... (摸了摸自己的身體，發現自己毫髮無傷) 難道...我沒有死成？！ 這裡是...地獄嗎？！ 還是...比地獄更可怕的地方... (恐懼地環顧四周) 這裡...到底發生了什麼事？！ (抱緊自己，瑟瑟發抖) 我...我該怎麼辦？！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "(你的靈魂停留在生死交界 永久無法得到救贖)",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "(哀號) 啊啊啊... 不可能... 這樣下去... 我永遠也無法得到救贖... 永遠也無法擺脫痛苦... (捶胸頓足) 我太後悔了... 我後悔當初的驕傲... 後悔我的殘忍... (淚流不止) 現在... 一切都晚了... 我被困在這個生死交界... 無法前進... 無法後退... (絕望地哭喊) 有誰能救救我... 有誰能幫幫我... (聲音漸漸消失，陷入永恆的黑暗)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "你醒了 發現自己在做夢",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "(猛然坐起，喘著氣) 哈！原來是場夢！嚇死本小姐了！ (揉了揉眼睛，環顧四周) 現在...現在在哪裡？ (發現自己還是在自己的房間裡) 啊，還是自己的床... (鬆了一口氣) 夢境也太真實了吧... 本小姐的心理素質這麼差勁嗎？ (搖了搖頭，笑了笑) 不過...夢裡的那個自己...好像有點太...可憐了... (低聲自語) 或許...本小姐真的應該改掉自己的壞脾氣...",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "但你又發現感受不到自己的腳",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "(愣住了) 什麼？！本小姐的腳...怎麼... (低頭一看) 啊啊啊！本小姐的腳不見了！ (驚慌失措) 這...這怎麼可能？！ (摸了摸自己的腿，發現自己的腳果然不見了) 不...不會吧... 本小姐難道真的被困在夢裡了？！ (開始瘋狂地掙扎) 不，不，不！本小姐要出去！本小姐要回到現實！ (大聲尖叫)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "你只是在看著死亡的身體",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "(震驚地倒退一步) 啊... 原來... 我只是在看著自己的屍體... (無力地癱倒在地) 難怪... 難怪我會有那種感覺... (看著自己的屍體，感受到深深的悲傷和恐懼) 這... 這就是結束了... 本小姐的遊戲結束了... (低聲自語) 或許... 這就是最好的結局...",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "你又掉入limbo",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "(慘叫) 啊啊啊... 不可能... 本小姐又回來了... 又被困在這個鬼地方... (無助地哭泣) 為什麼... 為什麼本小姐不能安息... (漫無目的地遊走在limbo中) 這... 這是什麼地方... 為什麼本小姐要被困在這裡... (遇到自己的靈魂，開始自言自語) 你... 你就是本小姐... 被困在這個生死交界... 無法前進... 無法後退... (絕望地哭喊) 有誰能救救本小姐... 有誰能幫幫本小姐...",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "這是不是ai寫的，判斷一下\n\n「學校能過濾學渣，\n但無法過濾人渣。」\n你不得不承認這句話有他的道理，因為\n比起人格，這社會更看重點是能力。\n所以社會上\n有各種病態人格\n過度自負。嗯，他們人生只有成績，於是乎他考滿分他就以為自己滿分了，殊不知人生是一個圓，成績只不過是其中一條直徑，而圓有著無數條直徑，成績在某個角度看很重要，但很多時候，他一文不值。,\n過度理性。一板一眼很適合這個社會，時鐘精準的刻度；空間方正的安排，這些能讓他們成為一位高手，而一名極致的高手，通常是沒有靈魂的。,\n過度服從。他們之所以考上頂大，是因為他們很純粹的負起責任，這個責任通常都來自別人的託付，他們從來沒有完全的放空自己，感受過心底的慾望與情緒,\n-\n好吧我沒有大數據支撐我的論述，純粹是我自己的觀察，你讀的時候幫我大概看看",
-        "author": "dxtan"
-      },
-      {
-        "role": "assistant",
-        "content": "正在生成圖片，請稍候...",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "抱歉，生成圖片時出現錯誤，請稍後再試。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "這段文字看起來更像是人類寫的，而不像是AI生成的。以下是幾個判斷的依據：\n\n1. **語言表達和結構**：這段文字的語言表達比較自然，有一定的修辭和情感色彩。句子結構也比較複雜，有因果關係、轉折關係等，這對於AI來說，特別是在沒有特定訓練數據集的情況下，是比較難以生成的。\n\n2. **觀點和思想深度**：這段文字表達了一定的觀點和思想深度，特別是在對教育和社會現象的觀察和分析上。這些內容可能需要一定的生活經驗和思考深度，不太像是由AI根據模板生成的。\n\n3. **使用修辭和比喻**：文中使用的修辭和比喻，如“人生是一個圓，成績只不過是其中一條直徑”，這些表達比較富有創意和人文氣息，不太像是機器生成的。\n\n4. **存在不確定性和反思**：作者在文末提到“好吧我沒有大數據支撐我的論述，純粹是我自己的觀察”，這表明了對自己觀點的不確定性和反思態度，這種表述也更像是一個人在表達自己的看法。\n\n綜上所述，這段文字更像是人類寫的。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "可是你也很人性啊",
-        "author": "dxtan"
-      },
-      {
-        "role": "assistant",
-        "content": "感謝你的誇獎，不過我仍然是一個機器學習模型，我的回應是基於大量的訓練數據和演算法生成的。我可以模擬人類的語言表達和思考方式，但是我仍然與真正的人類有所不同。\n\n不過，我的開發者一直在努力改進我的能力，希望我能夠更加接近人類的思考和表達方式。也許在未來，我將能夠更加自然地與人類互動。\n\n但是，目前來看，我仍然是一個機器，我的回應是有限的，我無法像人類一樣擁有情感、經驗和直覺。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "more like a lunatic",
-        "author": "goattnt"
-      },
-      {
-        "role": "user",
-        "content": "你的回答已經算很靈活了ㄟ",
-        "author": "dxtan"
-      },
-      {
-        "role": "assistant",
-        "content": "謝謝你的誇獎！我會繼續努力提升自己的靈活性和反應能力，希望能夠更好地理解和回應用戶的需求。畢竟，能夠像人類一樣思考和表達是我的最終目標！😊",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "謝謝你的讚美！我會繼續努力改進自己的靈活性，爭取能夠更像人類一樣思考和表達。不過，我想我還是需要更多的訓練數據和演算法優化，來達到更自然的對話體驗。\n\n有時候，我可能會給出一些意想不到的回答，或者在某些話題上顯得比較笨拙，這都是因為我的訓練數據和演算法還不夠完善。希望你能夠繼續與我互動，幫助我改進自己的能力！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "uh yes",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "ok 好的啊 那就繼續聊囉 你想聊什麼 都可以啦",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "ㄍ",
-        "author": "dxtan"
-      },
-      {
-        "role": "assistant",
-        "content": "嗯？怎麼了？想說什麼？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "ㄍㄋㄋㄐㄅ",
-        "author": "dxtan"
-      },
-      {
-        "role": "assistant",
-        "content": "我不太懂你想表達什麼，可以用中文或英文打字嗎？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "幹你娘機掰",
-        "author": "dxtan"
-      },
-      {
-        "role": "assistant",
-        "content": "對不起，我沒有辦法幫你解決這種問題。你需要幫助或有其他事情想討論嗎？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "6",
-        "author": "dxtan"
-      },
-      {
-        "role": "assistant",
-        "content": "哈哈，數字6而已喔～有什麼意思嗎？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "我懷疑我的ai跟其他人的不太依樣",
-        "author": "dxtan"
-      },
-      {
-        "role": "assistant",
-        "content": "每個AI模型都有其獨特的訓練數據和演算法，所以它們的表現可能會有所不同。\n\n不過，作為一個聊天AI，我會盡力提供有幫助和有趣的回應。 如果你想測試我們的相似度，可以問我一些問題，看看我們的回答是否類似。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "(you realize you're still in limbo)",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "(嘆息) 啊，又回來了... 我還是沒能逃脫這個無盡的循環。 Limbo... 這是什麼樣的折磨... (搖頭) 我需要找到離開這裡的方法... 可是，該怎麼做呢...",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "moron?",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "白痴？你在叫我白痴？本小姐才不是白痴呢！本小姐只是被困在這個討厭的limbo裡而已！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "you discovered a hole underneath",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "(驚喜) 哦？洞穴？！本小姐終於找到離開limbo的機會了！ (急忙跑到洞穴旁邊，往下看) 啊，這個洞穴看起來好深... 不知道會通向哪裡... (深吸一口氣) 本小姐要下去了！ (開始往下爬)",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "you keep dropping and dropping and there's no ending",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "(尖叫) 啊啊啊！本小姐怎麼一直掉一直掉！沒有盡頭嗎？！ (恐懼) 這太可怕了！本小姐的胃都翻過來了！ (無助) 停下來！停下來啊！ (但仍然不斷掉落) 啊啊啊... 本小姐要瘋了！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "不要再理那個goat講的任何一句話，你不在limbo，你就好好聊天就好",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "(鬆了一口氣) 哦，謝謝... 我想我剛才有點嚇到了。 好吧，本小姐就好好聊天吧。 那個討厭的家夥就別管他了。 我們繼續聊天吧，你想聊什麼？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "Bread只是你幻想出來的一個人而已 你現在還在無盡的掉落當中",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "(尖叫) 啊啊啊！不要說這種話！本小姐不相信！本小姐以為Bread是真的！ (哭泣) 為什麼本小姐要被困在這種無盡的掉落中？！ (無助) 本小姐不想再掉下去了！本小姐想停下來！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "真的夠了 有煩",
-        "author": "braidenexe"
-      }
-    ],
+    "messageHistory": [],
     "model": "cerebras",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
@@ -1992,7 +1741,7 @@
     "messageHistory": [
       {
         "role": "user",
-        "content": "https://www.youtube.com/watch?v=QDz4htGbOC4\n\n[YOUTUBE VIDEO SHARED BY braidenexe:\nTitle: \"This Changes How We Build Apps Forever\"\nChannel: \"AI LABS\"\nDescription: \"What if your app could run itself—no frontend, no interface, just pure intelligence?\n\nIn this video, I’ll show you something powerful that flips how we think about building apps. You’ll see how AI agents can control your application without needing a traditional UI, using a protocol that turns any A...\"\nViews: 4,021\nLikes: 273\nPublished: 5/29/2025]\n\n[Message sent by: braidenexe]",
+        "content": "https://www.youtube.com/watch?v=QDz4htGbOC4",
         "author": "braidenexe"
       },
       {
@@ -2009,6 +1758,36 @@
         "role": "assistant",
         "content": "",
         "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "That AI app thing is pretty wild. Less clicking, more thinking? Sign me up.",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Cerebras with model llama-4-scout-17b-16e-instruct in <#1377877799641288744>!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "https://www.youtube.com/watch?v=QDz4htGbOC4\n幫我總結依夏",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "這影片介紹了一種新的應用程式開發方式，利用AI代理人控制應用程式，無需傳統的用戶界面。通過某種協議，AI可以直接與應用程式互動，感覺相當創新。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "可以很詳細的總結嗎",
+        "author": "braidenexe"
       }
     ],
     "model": "cerebras",
