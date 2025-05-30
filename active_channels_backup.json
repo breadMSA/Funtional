@@ -1989,8 +1989,29 @@
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1377877799641288744": {
-    "messageHistory": [],
-    "model": "groq",
+    "messageHistory": [
+      {
+        "role": "user",
+        "content": "https://www.youtube.com/watch?v=QDz4htGbOC4\n\n[YOUTUBE VIDEO SHARED BY braidenexe:\nTitle: \"This Changes How We Build Apps Forever\"\nChannel: \"AI LABS\"\nDescription: \"What if your app could run itself—no frontend, no interface, just pure intelligence?\n\nIn this video, I’ll show you something powerful that flips how we think about building apps. You’ll see how AI agents can control your application without needing a traditional UI, using a protocol that turns any A...\"\nViews: 4,021\nLikes: 273\nPublished: 5/29/2025]\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright nerds, I'm here to party! Ready to chat in <#1377877799641288744> using Groq (Llama-3.1) model~",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "https://www.youtube.com/watch?v=QDz4htGbOC4",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Setsuna"
+      }
+    ],
+    "model": "cerebras",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   }
