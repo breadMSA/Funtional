@@ -2463,8 +2463,259 @@
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1376520346924224582": {
-    "messageHistory": [],
-    "model": "groq",
+    "messageHistory": [
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "已加入語音頻道: 💬丨閒聊打屁",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "播放音樂時出錯: Spotify Data is missing\nDid you forgot to do authorization ?",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "播放音樂時出錯: Spotify Data is missing\nDid you forgot to do authorization ?",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "播放音樂時出錯: Spotify Data is missing\nDid you forgot to do authorization ?",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "已加入語音頻道: 💬丨閒聊打屁",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "播放音樂時出錯: Spotify Data is missing\nDid you forgot to do authorization ?",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "已加入語音頻道: 💬丨閒聊打屁",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "已加入語音頻道: 💬丨閒聊打屁",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "播放音樂時出錯: Spotify Data is missing\nDid you forgot to do authorization ?",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "已加入語音頻道: 💬丨閒聊打屁",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "播放音樂時出錯: Spotify Data is missing\nDid you forgot to do authorization ?",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright nerds, I'm here to party! Ready to chat in <#1376520346924224582> using Groq (Llama-3.1) model~",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "哈囉阿",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "哈囉！👋 </br>",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Cerebras with model llama-4-scout-17b-16e-instruct in <#1376520346924224582>!",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "早安",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "早安！今天過得怎樣？",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "沒有特別開心，你那邊呢",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "沒怎樣啦，就是打遊戲耍廢，我現在正在玩一些新遊戲，感覺還不錯。你想一起玩嗎？",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "好阿 甚麼遊戲",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "最近在玩一些新遊戲，像是艾爾登法環和薩卡魯卡，感覺還不錯。你有玩過嗎？",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "薩卡魯卡是甚麼？",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "薩卡魯卡其實是薩卡魯卡（Sakuna: From the Rice Fields）啦，這是一款動作冒險遊戲，玩法還蠻有趣的，講述一個稻田裡的怪物故事。",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "是有畫動漫的那個嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你指的是那部動漫嗎？我不是很確定，不過我知道薩卡魯卡這款遊戲確實有動漫化的風格，畫風很漂亮。",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "我最近剛回鍋鳴潮",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "鳴潮？那不是一款很有趣的遊戲嗎？我記得之前跟朋友一起玩過，感覺還不錯。你最近回鍋有什麼心得嗎？",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "獎勵好很多了，跟剛開服比\n而且劇情也寫得不錯，跟米家遊戲有得拚",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "聽起來進步很多了！鳴潮的劇情確實寫得不錯，我之前也有跟朋友討論過。跟米家遊戲相比的話，個人覺得各有千秋啦，不過鳴潮的戰鬥系統還是很有特色。",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "對阿，而且攀爬的機制不比原神好太多了？原神獎勵又給的少 真的很勸退",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "攀爬機制確實是鳴潮的一大特色，而且比原神的攀爬系統更直觀和流暢。至於獎勵，哈哈，原神的獎勵一直以來都比較吝嗇，難怪你會覺得勸退。",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "你畫畫厲害嗎 可以幫我畫一張崩壞：星穹鐵道裡面的卡芙卡嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這是根據你的描述生成的圖片：\n好的，這就為您繪製一張高品質的《崩壞：星穹鐵道》中的卡芙卡。畫面將呈現她精緻的面容和冷豔的氣質，身著標誌性的服裝，背景將採用富有科幻感的元素，運用細膩的光影效果來突顯她的立體感和神秘感，色彩將飽滿而富有層次。\n\n [IMAGE_GENERATED]",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "嗨",
+        "author": "braidenexe"
+      },
+      {
+        "role": "user",
+        "content": "哈囉",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "哈囉！怎麼樣，今天有甚麼新的事情發生嗎？",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "還行",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "還行？聽起來還不錯！有什麼計劃或想聊的事情嗎？",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "嗨",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright nerds, I'm here to party! Ready to chat in <#1376520346924224582> using Groq (Llama-3.1) model~",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "嗨",
+        "author": "braidenexe"
+      }
+    ],
+    "model": "cerebras",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   }
